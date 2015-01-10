@@ -1,0 +1,39 @@
+.puskice-123wfgflergegdfgdvxcdrtwert34 body{margin: 0;}
+.puskice-123wfgflergegdfgdvxcdrtwert34 {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 14px;
+}
+
+.puskice-123wfgflergegdfgdvxcdrtwert34 ul {
+	list-style: none;
+}
+
+.puskice-123wfgflergegdfgdvxcdrtwert34 .title{float: right;width: 200px;}
+.puskice-123wfgflergegdfgdvxcdrtwert34 .title h2{margin-top: 0px;}
+.puskice-123wfgflergegdfgdvxcdrtwert34 .title h2 a{
+	color: rgb(0, 52, 99);
+	cursor: auto;
+	display: inline;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	height: auto;
+	line-height: 20px;
+	text-decoration: none solid rgb(0, 52, 99);
+	width: 100%;
+}
+.puskice-123wfgflergegdfgdvxcdrtwert34 .item div.image{float: left;width: 190px;padding-right: 10px;}
+.puskice-123wfgflergegdfgdvxcdrtwert34 .item div.image img{	width: 100%;}
+.puskice-123wfgflergegdfgdvxcdrtwert34 hr{margin:0;}
+
+.puskice-123wfgflergegdfgdvxcdrtwert34 div.item{
+	width: 400px;
+	padding: 10px 20px;
+}
+.puskice-123wfgflergegdfgdvxcdrtwert34 div.item:hover{background-color: #ddd;}
+.puskice-123wfgflergegdfgdvxcdrtwert34 div.item .date{font-size: 12px;color: #aaa;font-style: italic;float: right;width: 200px;}
+
+.puskice-123wfgflergegdfgdvxcdrtwert34 .clearfix{ clear: both; }
+#puskice-header{height: 50px;background-color: #2a5486;padding:20px;}
+#puskice-header h1{margin: 0px;text-align: center;}
+#puskice-header h1 a{color: #fff;text-decoration: none;}
