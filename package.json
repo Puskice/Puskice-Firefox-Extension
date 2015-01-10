@@ -1,9 +1,9 @@
 {
-  "name": "puskice-firefox-ext",
-  "title": "puskice-firefox-ext",
+  "name": "puskice-fon",
+  "title": "Puškice FON",
   "id": "jid1-8zElzPQOno9PIw",
-  "description": "a basic add-on",
+  "description": "Puškice add-on displaying latest 20 news from portal https://www.puskice.org",
   "author": "",
-  "license": "MPL 2.0",
-  "version": "0.1"
+  "license": "GPL 2.0",
+  "version": "1.1"
 }

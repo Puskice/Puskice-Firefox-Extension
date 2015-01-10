@@ -2,7 +2,7 @@
 
 ## English
 
-You can install this extension from [AMO](https://addons.mozilla.org/en-US/firefox/addon/puskice/)
+You can install this extension from [AMO](https://addons.mozilla.org/en-US/firefox/addon/pu%C5%A1kice-fon/)
 
 Firefox extension for Puskice - FON using Puskice API at https://api.puskice.org
 
@@ -10,7 +10,7 @@ Extension displays latest 20 news articles from web portal [Puškice](https://ww
 
 ## Serbian
 
-Ekstenziju možete instalirati sa [AMO](https://addons.mozilla.org/en-US/firefox/addon/puskice/)
+Ekstenziju možete instalirati sa [AMO](https://addons.mozilla.org/en-US/firefox/addon/pu%C5%A1kice-fon/)
 
 Firefox ekstenzija za Puškice - FON zasnovana na upotrebi Puškice API-ja. Više informacija na https://api.puskice.org
 
